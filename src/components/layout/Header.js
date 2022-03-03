@@ -86,6 +86,7 @@ const Header = ({
             bottomDivider && 'has-bottom-divider'
           )}>
           <Logo />
+          <h4>DAOUnited</h4>
           {!hideNav &&
             <>
               <button

@@ -64,6 +64,7 @@ const Hero = ({
               An Idea for <span className="text-color-primary">the greater good</span> of present and future Crypto Community
             </h1>
             <div className="container-xs">
+              
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
               Creating Worlds Largest DAO Community which will provide hand holding support to Every Stage of Investor From Fish to Whales.
                 </p>
@@ -72,8 +73,8 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
                     Get started
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/DAOUnited-landing/">
-                    View on Github
+                  <Button tag="a" color="dark" wideMobile href="https://daounited.medium.com/">
+                    View on Medium
                     </Button>
                 </ButtonGroup>
               </div>
@@ -81,7 +82,7 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/174002812"
+              data-video="https://www.youtube.com/watch?v=KHm0uUPqmVE"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
